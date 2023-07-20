@@ -1,3 +1,3 @@
-import { sum, sub } from "./objectFun.mjs";
+import { sum, minus } from "./objectFun.mjs";
 console.log(sum(1, 2));
-console.log(Math.abs(sub(1, 2)));
+console.log(Math.abs(minus(1, 2)));
